@@ -1,0 +1,349 @@
+body{ 
+    background-color: rgb(218, 185, 116); 
+}
+#firstheader {
+	margin:-0.5px;
+    background: rgb(218, 185, 116);
+	font-weight: bold;
+    float: left;
+	text-align: center;
+	width: 90%;
+	font-weight: bold;
+	height: 80px; 
+}
+.logo22{
+	background: rgb(218, 185, 116); 
+	float: left;
+	width: 10%;
+	height: 80px;
+}
+.fdf {
+    text-align: center;
+    list-style-type:none; 
+    margin-left: 500px; 
+    padding:2px; 
+}
+.oneli { 
+    display:inline; 
+    float:left;
+}
+a { 
+    
+    display:block;
+    width:300px; 
+    background-color:rgb(155, 122, 52); 
+}
+a:link {
+    text-decoration:none;
+}
+a:hover {
+    color:#ffffff;
+}
+a:active {
+    color:#000000;
+}
+#block2 {
+    margin-right: 200px;
+    background:#A9A9A9;
+    border:1px solid #A9A9A9;
+    }
+#textonas{
+    margin-right: px;
+    background:#A9A9A9;
+    border:1px solid #A9A9A9;
+}
+.h1 {
+    margin: 40px 700px 0px 20px;  
+    background: (218, 185, 116);
+    text-align: left;
+}
+.h2 {
+    font-size: 12;
+    margin: 0 470px 0 50px;   
+    background: rgb(218, 185, 116);
+    line-height: 20px;
+    text-indent: 20px;
+    text-align: center;
+}
+.h3 {
+    font-size: 12;
+    margin: 0 0px 0 50px;   
+    background-color: rgb(218, 185, 116); 
+    line-height: 20px;
+    text-indent: 20px;
+	height:260px;
+}
+.h5 {
+    background-image:url('image/dom5.jpg');
+    width: 600px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    position: absolute;
+    top: 130px;
+    left: 1200px;
+}
+.y{
+	width:350px;
+	height:250px;
+	float: left;
+	background-image:url('image/otziv.png');
+}
+
+.y1{
+	width:350px;
+	height:250px;
+	float: left;
+	margin-left:300px;
+	background-image:url('image/otziv.png');
+}
+.y2{
+	width:350px;
+	height:250px;
+	float: left;
+	margin-left:300px;
+	background-image:url('image/otziv.png');
+}
+.y3{
+	width:190px;
+	height:220px;
+	float: left;
+    background-color: rgb(218, 185, 116);
+}
+.ottext{
+	margin-top:20px;
+	margin-left:30px;
+	text-align:center;
+	width:300px;
+	height:150px;
+}
+.ottext1{
+	margin-top:20px;
+	margin-left:30px;
+	text-align:center;
+	width:300px;
+	height:150px;
+}
+.ottext2{
+	margin-top:20px;
+	margin-left:30px;
+	text-align:center;
+	width:300px;
+	height:150px;
+}
+.bh{
+	margin-left:355px;
+}
+.container{
+    margin-left:600px;
+    margin-top: 100px;
+    width: 800px;
+    height:700px;
+    position:relative;
+}
+.slider{
+    position:absolute;
+    animation:round 16s infinite;
+    opacity:0;
+    width:800px;
+	height:500px;
+}
+.ml {
+    width: 600px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    position: absolute;
+    top: 440px;
+    left: 1200px;
+}
+.lc{
+    position:absolute;
+    animation:round 16s infinite;
+    opacity:0;
+    width:500px;
+	height:300px;
+}
+.form{
+    text-align: center;
+    top: 150px;
+    left: 0%;
+    right: 0%;
+    background: rgb(218, 185, 116);
+    position: absolute;
+    border:5px groove lightgrey;
+}
+.form1{
+    top: 300px;
+    left: 0%;
+    right: 0%;
+    background: rgb(218, 185, 116);
+    position: absolute;
+    border:5px groove lightgrey;
+} 
+
+.zakaz{
+    float: left;
+    top: 200px;
+    left: 100px;
+    position: absolute;
+    background:url('image/dom.jpg');
+	width: 350px;
+	height: 200px;
+    background-size: 400px;
+}
+.tekstzakaz{
+    top: 400px;
+    text-align: center;
+    left: 100px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+
+.zakaz2{
+    float: left;
+    top: 200px;
+    left: 550px;
+    position: absolute;
+    background:url('image/dom2.jpg');
+    width: 350px;
+	height: 200px;
+    background-size: 345px;
+}
+.tekstzakaz2{
+    top: 400px;
+    text-align: center;
+    left: 550px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+.zakaz3{
+    float: left;
+    top: 200px;
+    left: 1000px;
+    position: absolute;
+    background:url('image/dom3.jpg');
+    width: 350px;
+	height: 200px;
+    background-size: 350px;
+}
+.tekstzakaz3{
+    top: 400px;
+    text-align: center;
+    left: 1000px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+.zakaz4{
+    float: left;
+    top: 200px;
+    left: 1450px;
+    position: absolute;
+    background:url('image/dom4.jpg');
+    width: 350px;
+	height: 200px;
+    background-size: 350px;
+}
+.tekstzakaz4{
+    top: 400px;
+    text-align: center;
+    left: 1450px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+.zakaz5{
+    top: 500px;
+    text-align: center;
+    left: 100px;
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    background:url('image/dom5.jpg');
+    background-size: 360px;
+
+}
+.tekstzakaz5{
+    top: 700px;
+    text-align: center;
+    left: 100px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+.zakaz6{
+    float: left;
+    top: 500px;
+    left: 550px;
+    position: absolute;
+    background:url('image/8.jpg');
+    width: 350px;
+	height: 200px;
+    background-size: 345px;
+}
+.tekstzakaz6{
+    top: 700px;
+    text-align: center;
+    left: 550px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+.zakaz7{
+    float: left;
+    top: 500px;
+    left: 1000px;
+    position: absolute;
+    background:url('image/dom7.jpg');
+    width: 350px;
+	height: 200px;
+    background-size: 350px;
+}
+.tekstzakaz7{
+    top: 700px;
+    text-align: center;
+    left: 1000px;
+    position: absolute;
+    width: 350px;
+    height: 100px;
+}
+.zx {
+    margin: 0px 0px 0px 0;
+    height: 750px;
+}
+.deviz{
+    height: 100px;
+    width: 1190px;
+    top: 300px;
+    left: 0px;
+    position: absolute;
+    font-size: 4;
+}
+.wewe {
+    position: fixed;
+    top: 95%;
+    left: 94%;
+}
+.nn{
+    width: 100%;
+    top: 130px;
+    height: 50px;
+    position:absolute;
+}
+.vv{
+    width: 100%;
+    top: 200px;
+    height: 200px;
+    position:absolute; 
+}
+.otziv{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 800px;
+    left: 1500px;
+    background: rgb(218, 185, 116); 
+}

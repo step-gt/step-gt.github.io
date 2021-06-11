@@ -1,0 +1,29 @@
+body{ 
+    background-color: rgb(218, 185, 116); 
+}
+.logo22{
+	background: rgb(218, 185, 116); 
+	float: left;
+	width: 10%;
+	height: 80px;
+}
+#firstheader {
+	margin:-0.5px;
+    background: rgb(218, 185, 116);
+	font-weight: bold;
+    float: left;
+	text-align: center;
+	width: 90%;
+	font-weight: bold;
+	height: 80px; 
+}
+.fdf {
+    text-align: center;
+    list-style-type:none; 
+    margin-left: 500px; 
+    padding:2px; 
+}
+.oneli { 
+    display:inline; 
+    float:left;
+}
